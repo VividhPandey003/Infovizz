@@ -1,6 +1,6 @@
 # ResearchWork Dataset
 
-This is a repository created for Tableau representation of the [Dataset](https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/4) 
+This is a repository created for Information Visualization - Tableau representation of the [Dataset](https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/4) 
 
 
 
