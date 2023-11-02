@@ -1,0 +1,8 @@
+html{
+    font-family: IBM Plex Mono;
+}
+
+.tableauPlaceholder {
+    margin: 0 auto; /* This centers the element horizontally */
+    text-align: center; /* This centers the content within the element */
+}
